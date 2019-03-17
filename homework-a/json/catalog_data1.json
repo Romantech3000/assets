@@ -26,12 +26,12 @@
 	},
 	{
 		"id_product": 6, 
-		"product_name": "Fat Bunny", 
+		"product_name": "Fat Bunny",  
 		"price": 150
 	},
 	{
 		"id_product": 7, 
-		"product_name": "Table",
+		"product_name": "Table",  
 		"price": 550
 	}
 ]
