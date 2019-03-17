@@ -33,5 +33,10 @@
 		"id_product": 7, 
 		"product_name": "Table", 
 		"price": 550
+	},
+    {
+		"id_product": 8, 
+		"product_name": "Cable", 
+		"price": 30
 	}
 ]
