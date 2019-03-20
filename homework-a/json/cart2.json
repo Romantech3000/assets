@@ -4,23 +4,23 @@
   "contents": [
     {
       "id_product": 1,
-      "product_name": "Mango People T-Shirt",
+      "product_name": "Mango People T-Shirt", 
 	  "image": "livecart01.jpg", 
-      "price": 150,
+      "price": 150, 
       "quantity": 1
     },
     {
       "id_product": 2, 
-      "product_name": "Mango People T-Shirt",
+      "product_name": "Mango People T-Shirt", 
 	  "image": "livecart02.jpg", 
       "price": 150, 
       "quantity": 1
     },
     {
-      "id_product": 3,
-      "product_name": "Mango People T-Shirt",
+      "id_product": 3, 
+      "product_name": "Mango People T-Shirt", 
 	  "image": "livecart03.jpg", 
-      "price": 150,
+      "price": 150, 
       "quantity": 1
     }
   ]
